@@ -13,3 +13,5 @@ Main objectives:
     - Preparing & cleaning up data 
     - Modeling & evaluating the dataset
 - Become familiarized with simple churn analysis
+
+Blog post: https://medium.com/@KwoVadis/which-customers-are-leaving-telco-dataset-churn-rate-analysis-in-python-7807121b830b
